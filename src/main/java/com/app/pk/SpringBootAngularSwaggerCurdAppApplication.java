@@ -8,6 +8,7 @@ public class SpringBootAngularSwaggerCurdAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootAngularSwaggerCurdAppApplication.class, args);
+int a=20;
 	}
 
 }
