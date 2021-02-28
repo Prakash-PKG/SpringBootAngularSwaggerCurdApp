@@ -10,6 +10,7 @@ public class SpringBootAngularSwaggerCurdAppApplication {
 		SpringApplication.run(SpringBootAngularSwaggerCurdAppApplication.class, args);
 int a=20;
 int c=50;
+int  d=500;
 	}
 
 }
