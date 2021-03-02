@@ -12,6 +12,7 @@ int a=20;
 int c=50;
 int  d=500;
 int v=999;
+int h=50;
 	}
 
 }
